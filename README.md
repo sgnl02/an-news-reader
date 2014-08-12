@@ -1,4 +1,8 @@
 an-news-reader
 ==============
 
-Reader for news.
+Newsreader for news articles
+
+##Requirements
+
+Uses the [Shoes](https://github.com/shoes/shoes) library.

@@ -19,7 +19,8 @@ Shoes.app(title: "AN Reader", width: 300, height: 600) do
 
 		flow do
 			image(
-	      "http://images.animanaturalis.org/posts/square/201408/P06-12660.jpg",
+				#Image of an article
+	      "",
 	    )
 	
 			para "news"
